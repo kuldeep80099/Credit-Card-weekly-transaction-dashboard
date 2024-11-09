@@ -1,5 +1,5 @@
 # Credit Card Transaction Dashboard
-![Dashboard Demo](./assets/PowerBI-Demo.gif)
+
 ## Project Objective
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
@@ -129,7 +129,7 @@ Previous_week_Revenue = CALCULATE(
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kartabaykrishna/PowerBI-CC-Dashboard.git
+   [https://github.com/kuldeep80099/Credit-Card-weekly-transaction-dashboard.git]
    ```
 
 2. Set up the PostgreSQL database and import the data using the provided SQL scripts.
@@ -137,4 +137,4 @@ Previous_week_Revenue = CALCULATE(
 3. Open the Power BI dashboard file and connect it to the PostgreSQL database.
 
 4. To test the real-time functionality, add data to the `cust_add.csv` and `cc_add.csv` files and import them into the database. Refresh the Power BI dashboard to see the updates.
-#### `note` : if you want to interact and view the dashboard, please click [here](https://learnermanipal-my.sharepoint.com/:u:/g/personal/kartabya_krishna_learner_manipal_edu/EY3_zBSjOrhLnuQpCe0JytUBQL1yW3w3M6Qh9fGFWypa-Q?e=Xx0QiZ)
+
